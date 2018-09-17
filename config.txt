@@ -1,6 +1,6 @@
 token=NDg4Njc4OTQ3MTkwNjAzNzc3.DnftVQ.LIwk2ZHen4BVud5u49h1zOKz-NM
-owner=382616862673993739 
+owner=450711003324350485 
 prefix=2
-game=Stars Server.
+game=Bérlin Server.
 stayinchannel=true
 songinstatus=true
